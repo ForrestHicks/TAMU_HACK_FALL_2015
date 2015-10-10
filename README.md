@@ -3,3 +3,6 @@ Drone Controller
 
 
 https://help.github.com/articles/set-up-git/
+
+Drone w/ kinect code:
+https://github.com/sebastianbk/Firefly
